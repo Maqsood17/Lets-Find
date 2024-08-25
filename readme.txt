@@ -7,11 +7,11 @@ Listrace is a bootstrap 3 framework based html5/css3 directory listing template.
 
 Template Info:
 -----------------------
-Name: 		Listrace - free directory template
+Name: 		Let's Find
 Version: 	1.0
-Author: 	ThemeSINE
-Website: 	
-
+Author: 	Maqsood017 
+About Website: 	
+is a location-based search platform designed to help users discover and explore places of interest in their vicinity. 
 
 
 
@@ -22,5 +22,5 @@ Credits:
 - jQuery http://jquery.org
 - Modernizr https://modernizr.com/
 - Sticky.js http://stickyjs.com/
-- JQuery easing https://github.com/gdsmith/jquery.easing
+- JQuery easing https://github.com/Maqsood17/Lets-Find.git
 - Bootsnav http://bootsnav.danurstrap.com/
